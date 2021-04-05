@@ -1,0 +1,13 @@
+{
+    "name": "Andreu",
+    "surname": "Gallofré",
+    "description": "I am a Software Engineer with an SRE background. I enjoy being able to build tools around cloud and using my skills to create products that can impact in the way that we use and operate systems and cloud.",
+
+    "skills": {
+        "cloud": ["aws", "gcp", "Azure"],
+        "iac": ["terraform", "clouddeploy", "cloudformation"], 
+        "programing languages": ["python", "Golang", "Perl"],
+        "misc": ["Git", "Jenkins", "GitlabCI"]
+    }
+
+}
